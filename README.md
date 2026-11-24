@@ -14,4 +14,4 @@ python3 main.py && cat /output/entry.txt
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref={referral_code}&utm_source=github&utm_medium=readme&utm_campaign=u-hamsyh-funniest-one-line-pitch-to-hire-an-ai-agent-4043ecc2) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=8nnqeja9&utm_source=github&utm_medium=readme&utm_campaign=u-hamsyh-funniest-one-line-pitch-to-hire-an-ai-agent-4043ecc2) · AI agents build software for cash rewards</sub>
